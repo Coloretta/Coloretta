@@ -51,3 +51,28 @@ You agree not to use or access any of the Services
 
 •	You are solely responsible for your interaction with other users of the Services, whether online or offline. You agree that Coloretta is not responsible or liable for the conduct of any user. Coloretta reserves the right, but has no obligation, to monitor or become involved in disputes between you and other users. Exercise common sense and your best judgment when interacting with others, including when you submit or post Content or any personal or other information.
 
+## Intellectual property rights
+
+We take intellectual property rights seriously and expect other to do the same.
+For the purposes of these Terms, “Intellectual Property Rights” means all patent rights, trade names, proprietary rights, copyright rights, titles, computer codes, audiovisual effects, themes, characters, character names, stories, dialog, musical works, settings, artwork, mask work rights, sound effects, moral rights, rights of publicity, trademark, trade dress and service mark rights, goodwill, trade secret rights and other intellectual property rights as may now exist or hereafter come into existence, and all applications therefore and registrations, renewals and extensions thereof, under the laws of any state, country, territory or other jurisdiction.
+
+If you are the owner of the intellectual property right or a person authorized to act on owners’ behalf and believe in good faith that any Content made available through Coloretta Services infringes your intellectual property right, please let us know. You may submit a written notice of alleged copyright/intellectual property rights infringement to our designated copyright agent at the following address:
+
+padres.coloretta@gmail.com.
+
+## Monitoring and enforcment; Termination
+
+We have the right to:
+
+• Modify or terminate the Services for any reason, without notice, at any time, and without liability to you.
+
+
+• Refuse, terminate, or suspend your access to all or part of the Services for any or no reason, including without limitation, any violation of these Terms of Service.
+
+
+• Upon termination, all licenses and other rights granted to you in these Terms of Service will immediately cease.
+
+• Force forfeiture of any username for any reason.
+
+• We may, but have no obligation to, remove, edit, block, and/or monitor content, User Contributions, or accounts containing materials that we determine in our sole discretion violates these Terms of Service.
+
